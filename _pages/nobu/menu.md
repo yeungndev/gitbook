@@ -13,55 +13,55 @@ Baby Corn with Honey Truffle
 
 ### Cold Dishes
 
-[Toro Tartare with Caviar]({{ site.baseurl }}/menu/tartare) 
-[Salmon or Yellowtail Tartare with Caviar](../menu/menu-items/tartare.md)   
+[Toro Tartare with Caviar]({{ site.baseurl }}/menu/tartare)  
+[Salmon or Yellowtail Tartare with Caviar]({{ site.baseurl }}/menu/menu-items/tartare)   
 Kumamoto Oysters with Nobu Sauces (3pcs)   
-[Yellowtail Jalapeno](../menu/menu-items/yellowtail-jalapeno-sashimi.md)  
-[Fluke Sashimi Dry Miso](../menu/menu-items/fluke-sashimi-dry-miso.md)  
+[Yellowtail Jalapeno]({{ site.baseurl }}/menu/menu-items/yellowtail-jalapeno-sashimi)  
+[Fluke Sashimi Dry Miso]({{ site.baseurl }}/menu/menu-items/fluke-sashimi-dry-miso)  
 [Salmon Tataki Karashi Sumiso](#cold-dishes)  
-[New Style Sashimi with Salmon or White Fish](../menu/menu-items/new-style-sashimi)    
-[Tiradito](../menu/menu-items/tiradito.md)    
-[Tuna Tataki with Tosazu](../menu/menu-items/tuna-tataki-with-tosazu.md)  
+[New Style Sashimi with Salmon or White Fish]({{ site.baseurl }}/menu/menu-items/new-style-sashimi)    
+[Tiradito]({{ site.baseurl }}/menu/menu-items/tiradito)    
+[Tuna Tataki with Tosazu]({{ site.baseurl }}/menu/menu-items/tuna-tataki-with-tosazu)  
 [Fluke Maui Onion](#cold-dishes)  
-[Crispy Rice with Spicy Tuna](../menu/menu-items/crispy-rice-spicy-tuna.md)   
+[Crispy Rice with Spicy Tuna]({{ site.baseurl }}/menu/menu-items/crispy-rice-spicy-tuna)   
 Crispy Rice with Spicy Avocado  
-[Sashimi Salad with Matsuhisa Dressing](../menu/menu-items/sashimi-salad-wiht-matsuhisa-dressing.md)  
-[Lobster Ceviche](../menu/menu-items/lobster-ceviche.md)   
-[Lobster Shiitake Salad with Spicy Lemon Dressing](../menu/menu-items/lobster-shiitake-salad.md)  
-[Baby Spinach Salad with Dry Miso](../menu/menu-items/baby-spinach-salad.md)  
-[Baby Spinach Salad with Grilled Shrimp](../menu/menu-items/baby-spinach-salad-with.md)   
-[Baby Spinach Salad with Lobster](../menu/menu-items/baby-spinach-salad-with.md)   
-[Hearts of Palm with Jalapeno Dressing](../menu/menu-items/hearts-of-palm-salad.md)  
-[Artichoke Salad](../menu/menu-items/baby-artichoke-salad.md)  
-[Artichoke Salad with Noodles](../menu/menu-items/baby-artichoke-salad.md)  
+[Sashimi Salad with Matsuhisa Dressing]({{ site.baseurl }}/menu/menu-items/sashimi-salad-wiht-matsuhisa-dressing)  
+[Lobster Ceviche]({{ site.baseurl }}/menu/menu-items/lobster-ceviche)   
+[Lobster Shiitake Salad with Spicy Lemon Dressing]({{ site.baseurl }}/menu/menu-items/lobster-shiitake-salad)  
+[Baby Spinach Salad with Dry Miso]({{ site.baseurl }}/menu/menu-items/baby-spinach-salad)  
+[Baby Spinach Salad with Grilled Shrimp]({{ site.baseurl }}/menu/menu-items/baby-spinach-salad-with)   
+[Baby Spinach Salad with Lobster]({{ site.baseurl }}/menu/menu-items/baby-spinach-salad-with)   
+[Hearts of Palm with Jalapeno Dressing]({{ site.baseurl }}/menu/menu-items/hearts-of-palm-salad)  
+[Artichoke Salad]({{ site.baseurl }}/menu/menu-items/baby-artichoke-salad)  
+[Artichoke Salad with Noodles]({{ site.baseurl }}/menu/menu-items/baby-artichoke-salad)  
 
 ### A5 Wagyu Beef 
 
 from Japan 38 per ounce 2oz minimum
-[Tataki](../menu/menu-items/a5-wagyu-beef.md)  
-[New Style](../menu/menu-items/a5-wagyu-beef.md)  
-[Steak](../menu/menu-items/a5-wagyu-beef.md)  
+[Tataki]({{ site.baseurl }}/menu/menu-items/a5-wagyu-beef)  
+[New Style]({{ site.baseurl }}/menu/menu-items/a5-wagyu-beef)  
+[Steak]({{ site.baseurl }}/menu/menu-items/a5-wagyu-beef)  
 
 ### Hot Dishes
 
-[Black Cod with Miso](../menu/menu-items/black-cod-with-miso.md)  
-[Black Cod Butter Lettuce (2 pieces)](../menu/menu-items/black-cod-on-butter-lettuce.md)  
-[Umami Sea Bass](../menu/menu-items/umami-seabass.md)  
-[Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing](../menu/menu-items/  roasted-chilean-seabass.md)
-[Squid 'Pasta' with Light Garlic Sauce](../menu/menu-items/squid-pasta.md)  
-[Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu](../menu/menu-items/rock-shrimp-tempura.md)  
-[King Crab Tempura Amazu Ponzu](../menu/menu-items/king-crab-tempura.md)  
-[Lobster Tempura Amazu Ponzu (Half Lobster)](../menu/menu-items/lobster-tempura.md)  
-[Creamy Spicy Crab](../menu/menu-items/creamy-spicy-crab.md)  
-[Shrimp and Lobster with Spicy Lemon Sauce](../menu/menu-items/  shrimp-and-lobster-with-spicy-lemon-dressing.md)
-[Lobster Wasabi Pepper](../menu/menu-items/shrimp-and-lobster-with-spicy-lemon-dressing.md)  
-[Grilled Chicken with Teriyaki or Anticucho](../menu/menu-items/grilled-chicken.md)  
-[Grilled Salmon with Teriyaki or Anticucho](../menu/menu-items/grilled-salmon.md)  
-[Beef Tenderloin](../menu/menu-items/grilled-beef-tenderloin.md) with Teriyaki or Anticucho  
+[Black Cod with Miso]({{ site.baseurl }}/menu/menu-items/black-cod-with-miso)  
+[Black Cod Butter Lettuce (2 pieces)]({{ site.baseurl }}/menu/menu-items/black-cod-on-butter-lettuce)  
+[Umami Sea Bass]({{ site.baseurl }}/menu/menu-items/umami-seabass)  
+[Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing]({{ site.baseurl }}/menu/menu-items/  roasted-chilean-seabass)
+[Squid 'Pasta' with Light Garlic Sauce]({{ site.baseurl }}/menu/menu-items/squid-pasta)  
+[Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu]({{ site.baseurl }}/menu/menu-items/rock-shrimp-tempura)  
+[King Crab Tempura Amazu Ponzu]({{ site.baseurl }}/menu/menu-items/king-crab-tempura)  
+[Lobster Tempura Amazu Ponzu (Half Lobster)]({{ site.baseurl }}/menu/menu-items/lobster-tempura)  
+[Creamy Spicy Crab]({{ site.baseurl }}/menu/menu-items/creamy-spicy-crab)  
+[Shrimp and Lobster with Spicy Lemon Sauce]({{ site.baseurl }}/menu/menu-items/  shrimp-and-lobster-with-spicy-lemon-dressing)
+[Lobster Wasabi Pepper]({{ site.baseurl }}/menu/menu-items/shrimp-and-lobster-with-spicy-lemon-dressing)  
+[Grilled Chicken with Teriyaki or Anticucho]({{ site.baseurl }}/menu/menu-items/grilled-chicken)  
+[Grilled Salmon with Teriyaki or Anticucho]({{ site.baseurl }}/menu/menu-items/grilled-salmon)  
+[Beef Tenderloin]({{ site.baseurl }}/menu/menu-items/grilled-beef-tenderloin) with Teriyaki or Anticucho  
 Rib Eye with Yuzu Honey Truffle  
-[Chicken Kushiyaki with Teriyaki or Anticucho (2 pieces)](../menu/menu-items/kushiyaki.md)  
-[Beef Kushiyaki with Teriyaki or Anticucho (2 pieces)](../menu/menu-items/kushiyaki.md)  
-[Short Rib with Jalapeno Salsa (2 pieces)]((../menu/menu-items/kushiyaki.md))  
+[Chicken Kushiyaki with Teriyaki or Anticucho (2 pieces)]({{ site.baseurl }}/menu/menu-items/kushiyaki)  
+[Beef Kushiyaki with Teriyaki or Anticucho (2 pieces)]({{ site.baseurl }}/menu/menu-items/kushiyaki)  
+[Short Rib with Jalapeno Salsa (2 pieces)]({{ site.baseurl }}/menu/menu-items/kushiyaki))  
 
 ### Omakase
 
@@ -72,31 +72,31 @@ Experience the essence of Chef Matsuhisa's cuisine with this multi-course tastin
 
 ### Soups
 
-[Miso Soup with Tofu](../menu/menu-items/miso-soup.md)   
-[Mushroom Soup](../menu/menu-items/mushroom-soup.md)   
-[Spicy Seafood](../menu/menu-items/spicy-seafood-soup.md)  
+[Miso Soup with Tofu]({{ site.baseurl }}/menu/menu-items/miso-soup)   
+[Mushroom Soup]({{ site.baseurl }}/menu/menu-items/mushroom-soup)   
+[Spicy Seafood]({{ site.baseurl }}/menu/menu-items/spicy-seafood-soup)  
 
 ### Nobu Tacos
 
-[Tuna](../menu/menu-items/nobu-tacos.md)  
-[Salmon](../menu/menu-items/nobu-tacos.md)  
-[King Crab](../menu/menu-items/nobu-tacos.md)  
-[Lobster](../menu/menu-items/nobu-tacos.md)  
-[Wagyu](../menu/menu-items/nobu-tacos.md)  
-[Nori Caviar](../menu/menu-items/nobu-tacos.md)  
-[Vegetable](../menu/menu-items/nobu-tacos.md)  
+[Tuna]({{ site.baseurl }}/menu/menu-items/nobu-tacos)  
+[Salmon]({{ site.baseurl }}/menu/menu-items/nobu-tacos)  
+[King Crab]({{ site.baseurl }}/menu/menu-items/nobu-tacos)  
+[Lobster]({{ site.baseurl }}/menu/menu-items/nobu-tacos)  
+[Wagyu]({{ site.baseurl }}/menu/menu-items/nobu-tacos)  
+[Nori Caviar]({{ site.baseurl }}/menu/menu-items/nobu-tacos)  
+[Vegetable]({{ site.baseurl }}/menu/menu-items/nobu-tacos)  
 
 ### Vegetables
 
 Yasai Maki 8 
-[Field Greens](../menu/menu-items/field-green.md) 15   
-[Shiitake Salad with Spicy Lemon Dressing](../menu/menu-items/shiitake-mushroom-salad.md) 20   
+[Field Greens]({{ site.baseurl }}/menu/menu-items/field-green) 15   
+[Shiitake Salad with Spicy Lemon Dressing]({{ site.baseurl }}/menu/menu-items/shiitake-mushroom-salad) 20   
 Tofu New Style 19   
-[Shojin Vegetable Tempura Selection](../menu/menu-items/shojin-tempura.md) (7 pieces) 22  
-[Crispy Brussels Sprouts Goma Ponzu](../menu/menu-items/brussel-sprouts.md)   
-[Warm Mushroom Salad](../menu/menu-items/warm-mushroom-salad.md)  
-[Roasted Cauliflower Jalapeno Salsa](../menu/menu-items/roasted-cauliflower.md)   
-[Eggplant with Miso](../menu/menu-items/eggplant-with-miso.md)  
+[Shojin Vegetable Tempura Selection]({{ site.baseurl }}/menu/menu-items/shojin-tempura) (7 pieces) 22  
+[Crispy Brussels Sprouts Goma Ponzu]({{ site.baseurl }}/menu/menu-items/brussel-sprouts)   
+[Warm Mushroom Salad]({{ site.baseurl }}/menu/menu-items/warm-mushroom-salad)  
+[Roasted Cauliflower Jalapeno Salsa]({{ site.baseurl }}/menu/menu-items/roasted-cauliflower)   
+[Eggplant with Miso]({{ site.baseurl }}/menu/menu-items/eggplant-with-miso)  
 Tofu & Vegetables Spicy Garlic  
 
 ### Sushi Selection 
