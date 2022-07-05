@@ -3,8 +3,8 @@ layout: post
 title: Sauces
 ---
 
-[Aji Amarillo Aioli]({{ site.baseurl }}{{ site.baseurl }}/menu/sauces/aji-amarillo-aioli)  
-[Anticucho Marinade Sauce (red)]({{ site.baseurl }}{{ site.baseurl }}/menu/sauces/anticucho-marinade-red)  
+[Aji Amarillo Aioli]({{ site.baseurl }}/menu/sauces/aji-amarillo-aioli)  
+[Anticucho Marinade Sauce (red)]({{ site.baseurl }}/menu/sauces/anticucho-marinade-red)  
 [Anticucho Miso]({{ site.baseurl }}/menu/sauces/anticucho-miso-sauce)  
 [Anticucho Sauce (yellow)]({{ site.baseurl }}/menu/sauces/anticucho-marinade-yellow)  
 [Butter Ponzu Sauce (B.P.S.)]({{ site.baseurl }}/menu/sauces/butter-ponzu-sauce)  
