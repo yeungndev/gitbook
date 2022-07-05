@@ -37,7 +37,7 @@ Crispy Rice with Spicy Avocado
 
 ### A5 Wagyu Beef 
 
-from Japan 38 per ounce 2oz minimum
+from Japan 38 per ounce 2oz minimum  
 [Tataki]({{ site.baseurl }}/menu/menu-items/a5-wagyu-beef)  
 [New Style]({{ site.baseurl }}/menu/menu-items/a5-wagyu-beef)  
 [Steak]({{ site.baseurl }}/menu/menu-items/a5-wagyu-beef)  
@@ -88,14 +88,14 @@ Experience the essence of Chef Matsuhisa's cuisine with this multi-course tastin
 
 ### Vegetables
 
-Yasai Maki 8 
-[Field Greens]({{ site.baseurl }}/menu/menu-items/field-green) 15   
-[Shiitake Salad with Spicy Lemon Dressing]({{ site.baseurl }}/menu/menu-items/shiitake-mushroom-salad) 20   
-Tofu New Style 19   
-[Shojin Vegetable Tempura Selection]({{ site.baseurl }}/menu/menu-items/shojin-tempura) (7 pieces) 22  
-[Crispy Brussels Sprouts Goma Ponzu]({{ site.baseurl }}/menu/menu-items/brussel-sprouts)   
+Yasai Maki  
+[Field Greens]({{ site.baseurl }}/menu/menu-items/field-green)  
+[Shiitake Salad with Spicy Lemon Dressing]({{ site.baseurl }}/menu/menu-items/shiitake-mushroom-salad)  
+Tofu New Style  
+[Shojin Vegetable Tempura Selection]({{ site.baseurl }}/menu/menu-items/shojin-tempura) (7 pieces)  
+[Crispy Brussels Sprouts Goma Ponzu]({{ site.baseurl }}/menu/menu-items/brussel-sprouts)  
 [Warm Mushroom Salad]({{ site.baseurl }}/menu/menu-items/warm-mushroom-salad)  
-[Roasted Cauliflower Jalapeno Salsa]({{ site.baseurl }}/menu/menu-items/roasted-cauliflower)   
+[Roasted Cauliflower Jalapeno Salsa]({{ site.baseurl }}/menu/menu-items/roasted-cauliflower)  
 [Eggplant with Miso]({{ site.baseurl }}/menu/menu-items/eggplant-with-miso)  
 Tofu & Vegetables Spicy Garlic  
 
@@ -105,20 +105,20 @@ Tofu & Vegetables Spicy Garlic
 
 ### Nigiri / Sashimi
 
-Snow Crab
-King Crab
-Scallop
-Octopus
-Japanese Eel 
-Japanese Sea Urchin 
-Smelt Eggs
-Salmon Eggs 
-Tamago 
-Wagyu
+Snow Crab  
+King Crab  
+Scallop  
+Octopus  
+Japanese Eel   
+Japanese Sea Urchin   
+Smelt Eggs  
+Salmon Eggs   
+Tamago   
+Wagyu  
 
 ### Sushi Maki
 
-Tuna 11.5 12.5  
+Tuna   
 Spicy Tuna  
 Toro & Scallion  
 Salmon & Avocado   
@@ -138,12 +138,24 @@ Lobster
 
 ### Desserts
 
-Buttermilk Doughnuts 18 Cinnamon Sugar, Soy Caramel Sauce, Vanilla Gelato  
-Downtown Monkfruit Cheesecake 17 Cheesecake, Strawberry Coulis, Black Sesame  
-Whisky Cappucino 17 Cardamom Cream, Toasted Cinnamon Crunch, Espresso Gelato, Whisky Foam  
-Sobacha Brownie 18 Brownie, Salted Caramel, Milk Chocolate Cremeux, Caramel Sobacha Bar Gelato  
-Bento Box 18 Valrhona Dark Chocolate Fondant, Imperial Matcha Gelato  
-House-Made Gelato Or Sorbet 16 Mochi Ice Cream (3 Pieces) 16  
+Buttermilk Doughnuts  
+Cinnamon Sugar, Soy Caramel Sauce, Vanilla Gelato  
+
+Downtown Monkfruit Cheesecake  
+Cheesecake, Strawberry Coulis, Black Sesame  
+
+Whisky Cappucino  
+Cardamom Cream, Toasted Cinnamon Crunch, Espresso Gelato, Whisky Foam  
+
+Sobacha Brownie  
+Brownie, Salted Caramel, Milk Chocolate Cremeux, Caramel Sobacha Bar Gelato  
+
+Bento Box  
+Valrhona Dark Chocolate Fondant, Imperial Matcha Gelato  
+
+House-Made Gelato Or Sorbet   
+
+Mochi Ice Cream (3 Pieces)  
 
 
 
