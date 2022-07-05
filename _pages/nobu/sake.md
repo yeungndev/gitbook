@@ -1,8 +1,7 @@
 ---
+layout: post
 title: Sake
 ---
-
-[[toc]]
 
 ## Hokusetsu Sake Selection 
 
