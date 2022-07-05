@@ -1,9 +1,8 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+date: 2022-07-05
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+This site is built using [Jekyll](https://jekyllrb.com/) and the [GitBook](https://github.com/sighingnow/jekyll-gitbook) theme. 
