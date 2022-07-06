@@ -49,3 +49,4 @@ Domaine Alain Mathias 'Epineuil Tradition', Pinot Noir, Burgunday, France 18
 
 Nobu Matsuhisa, Pinot Noir, Sonoma County, California 20
 
+[Wie by the Bottle]({{ site.baseurl }}/wines-by-the-bottle)

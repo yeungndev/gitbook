@@ -145,3 +145,5 @@ Bin# 1035: Chateau Mouton Rothschild, 1er Grand Cru, Pauillac, Bordeaux,  France
 Bin# D4: Pacific Rim, Late Harvest Riesling, Columbia Valley 16 52 
 Bin# D6: Dolce, Late Harvest, Napa Valley 13  
 Bin# D8: Chateau D'yquem, Sauternes 13 148 450 
+
+[Spirits]({{ site.baseurl }}/spirits)

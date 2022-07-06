@@ -41,9 +41,6 @@ collections:
   pages:
     output: true
     permalink: /:collection/:title/
-  fitness:
-    output: true
-    permalink: /:collection/:title/
 
 page_width: 800px
 
