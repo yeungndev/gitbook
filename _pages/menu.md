@@ -15,10 +15,10 @@ Baby Corn with Honey Truffle
 
 [Toro Tartare with Caviar]({{ site.baseurl }}/menu/tartare)  
 [Salmon or Yellowtail Tartare with Caviar]({{ site.baseurl }}/menu/menu-items/tartare)   
-Kumamoto Oysters with Nobu Sauces (3pcs)   
+[Kumamoto Oysters with Nobu Sauces (3pcs)]({{ site.baseurl }}/menu/menu-items/kumamoto-oysters)   
 [Yellowtail Jalapeno]({{ site.baseurl }}/menu/menu-items/yellowtail-jalapeno-sashimi)  
 [Fluke Sashimi Dry Miso]({{ site.baseurl }}/menu/menu-items/fluke-sashimi-dry-miso)  
-[Salmon Tataki Karashi Sumiso](#cold-dishes)  
+[Salmon Tataki Karashi Sumiso]({{ site.baseurl }}/menu/menu-items/salmon-tataki)  
 [New Style Sashimi with Salmon or White Fish]({{ site.baseurl }}/menu/menu-items/new-style-sashimi)    
 [Tiradito]({{ site.baseurl }}/menu/menu-items/tiradito)    
 [Tuna Tataki with Tosazu]({{ site.baseurl }}/menu/menu-items/tuna-tataki-with-tosazu)  
