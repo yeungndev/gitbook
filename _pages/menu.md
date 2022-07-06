@@ -5,11 +5,11 @@ title: DT Menu
 
 ### Shuko
 
-Edamame  
-Edamame Choclo  
-Shishito Sea Salt   
-Shishito Den Miso  
-Baby Corn with Honey Truffle  
+[Edamame]({{ site.baseurl }}/menu/shuko/edamame)  
+[Edamame Choclo]({{ site.baseurl }}/menu/shuko/edamame-choclo)  
+[Shishito Sea Salt]({{ site.baseurl }}/menu/shuko/shishito-peppers)   
+[Shishito Den Miso]({{ site.baseurl }}/menu/shuko/shishito-peppers)  
+[Baby Corn with Honey Truffle]({{ site.baseurl }}/menu/shuko/baby-corn)  
 
 ### Cold Dishes
 
