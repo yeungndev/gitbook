@@ -3,7 +3,7 @@ layout: post
 title: Shishito Peppers
 ---
 
-## Shishito Peppers |4-6
+[Dinner Menu]({{ site.baseurl }}/pages/menu)
 
 Flash fried shishito peppers seasoned with sea salt or drizzled with sweet [den miso sauce](../sauces/den-miso.md), topped with sesame seeds and garnished with crispy eggplant chips.
 
